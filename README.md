@@ -1,2 +1,1 @@
-# Zaud-to-mantu-skapis-m-jaslapa
-Pielaides darbs eksāmenam - mājaslapa
+# Zaudēto mantu skapis - mājaslapa ''Pielaides darbs''
